@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC-Agile-Process", "MVC-Agile-Process\MVC-Agile-Process.csproj", "{BA2A4A81-DBB4-4CCE-890E-FA69B876BFE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA2A4A81-DBB4-4CCE-890E-FA69B876BFE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2A4A81-DBB4-4CCE-890E-FA69B876BFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2A4A81-DBB4-4CCE-890E-FA69B876BFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2A4A81-DBB4-4CCE-890E-FA69B876BFE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20D46B14-4C84-4CFC-9A1C-7F69C8C69C00}
+	EndGlobalSection
+EndGlobal
