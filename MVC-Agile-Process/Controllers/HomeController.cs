@@ -4,6 +4,7 @@ using System.Diagnostics;
 
 namespace MVC_Agile_Process.Controllers
 {
+    /*    Resolve #4*/
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
